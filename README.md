@@ -1,2 +1,2 @@
-# djangocharts
-Build on to Traversy Media's "Django Crash Course" by adding charts to our Polling App.
+# VoteIt
+This is simple implementation of a voting app built using Django.
